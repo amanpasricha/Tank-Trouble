@@ -1,16 +1,17 @@
 
 # Tank Trouble
 
-Tank Trouble is a 2-player game where each player aims to shoot the opponent's tank without getting shot himself/herself. Each player navigate round a procedurally generated maze, firing up to 5 bullets at a time which spans for 10 seconds after being fired. The bullets can bounce off the walls and destroys any tank it hits.
+Tank Trouble is a 2-player game where each player aims to shoot the opponent's tank without getting shot himself/herself. Each player navigate round a procedurally generated maze, firing up to 5 bullets at a time which spans for a period of 10 seconds before expiring. The bullets can bounce off the walls and destroys any tank that it hits.
 
 ## Controls
 
-| Control Key     | Tank 1 | Tank 2 |
-| :-------------- | :----- | :----- |
-| `Move Forward`  | UP     |   W    |
-| `Move Backward` | DOWN   |   S    |
-| `Turn Left`     | LEFT   |   A    |
-| `Turn Right`    | RIGHT  |   D    |
+| Control Key     | Tank RED | Tank GREEN |
+| :-------------- | :------- | :--------- |
+| `Move Forward`  | UP       |     W      |
+| `Move Backward` | DOWN     |     S      |
+| `Turn Left`     | LEFT     |     A      |
+| `Turn Right`    | RIGHT    |     D      |
+| `Shoot`         | R-CTRL   |   L-CTRL   |
 
   
 ## Screenshots
