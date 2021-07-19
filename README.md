@@ -15,9 +15,9 @@ Tank Trouble is a 2-player game where each player aims to shoot the opponent's t
   
 ## Screenshots
 
-![App Screenshot](\Screenshots\Screenshot-1.png?raw=true)
-![App Screenshot](\Screenshots\Screenshot-2.png?raw=true)
-![App Screenshot](\Screenshots\Screenshot-3.png?raw=true)
+![App Screenshot](/Screenshots/Screenshot-1.png?raw=true)
+![App Screenshot](/Screenshots/Screenshot-2.png?raw=true)
+![App Screenshot](/Screenshots/Screenshot-3.png?raw=true)
 
   
 ## Installation
